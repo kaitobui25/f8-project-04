@@ -1,0 +1,17 @@
+* {
+    font-size: 67.5%;
+}
+
+:root {
+    --heading-font: Sora, sans-serif;
+    --text-font: Poppins, sans-serif;
+    --heading-color: #000958;
+    --text-color: #656689;
+    --primary-color: #FF5B2E;
+    
+}
+
+body {
+    font-family: var(--text-font);
+    font-size: 1rem;
+}
